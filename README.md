@@ -46,7 +46,7 @@ Para asegurar la calidad en mis proyectos, aplico principios sólidos de ingenie
 ---
 
 <div align="center">
-<img alt="Bongo Cat" height="70px" width="70px" src="https://i.pinimg.com/originals/e5/22/d4/e522d4c0d16d013f9f3b14e3001844eb.gif"></img><br>
+<img alt="Bongo Cat" height="70px" width="70px" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img><br>
 
 <a href="https://github.com/JoseAndresBruh">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoseAndresBruh&theme=github_dark&hide_border=true" alt="GitHub Stats Graph"/>
@@ -54,9 +54,7 @@ Para asegurar la calidad en mis proyectos, aplico principios sólidos de ingenie
   
 <br>
 
-<a href="https://github.com/JoseAndresBruh">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAndresBruh&layout=compact&langs_count=6&theme=tokyonight" alt="Top Langs"/>
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAndresBruh&layout=compact&langs_count=6&theme=tokyonight)](https://github.com/JoseAndresBruh)
 
 </div>
 
@@ -66,14 +64,14 @@ Para asegurar la calidad en mis proyectos, aplico principios sólidos de ingenie
 
 <div align="center">
 
-<a href="mailto:joseandrescorreodecontacto2@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+[joseandrescorreodecontacto2@gmail.com](mailto:joseandrescorreodecontacto2@gmail.com)
 
 <br><br>
 
 ### ¡Gracias por visitar mi perfil!
 
 <br>
-<img src="https://media1.tenor.com/m/0vKzY9qT0YcAAAAC/pochita-chainsaw-man.gif" width="70" /> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://media1.tenor.com/m/R8pP6k_6vLIAAAAC/spamton-spamton-g-spamton.gif" width="60" />
+<img src="https://media.tenor.com/0vKzY9qT0YcAAAAi/pochita-chainsaw-man.gif" width="70" alt="Pochita" /> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://media.tenor.com/R8pP6k_6vLIAAAAi/spamton-spamton-g-spamton.gif" width="60" alt="Spamton" />
 <br>
 
 <p>
