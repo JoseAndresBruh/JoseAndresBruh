@@ -71,7 +71,7 @@ Para asegurar la calidad en mis proyectos, aplico principios sólidos de ingenie
 ### ¡Gracias por visitar mi perfil!
 
 <br>
-<img src="https://media.tenor.com/0vKzY9qT0YcAAAAi/pochita-chainsaw-man.gif" width="70" alt="Pochita" /> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://media.tenor.com/R8pP6k_6vLIAAAAi/spamton-spamton-g-spamton.gif" width="60" alt="Spamton" />
+<img src="[https://media.tenor.com/0vKzY9qT0YcAAAAi/pochita-chainsaw-man.gif](https://tenor.com/es-419/view/pochita-dancing-reze-arc-pochita-dance-chainsaw-man-dancing-gif-5698033309633008506)" width="70" alt="Pochita" /> &nbsp; &nbsp; &nbsp; &nbsp; <img src="[https://media.tenor.com/R8pP6k_6vLIAAAAi/spamton-spamton-g-spamton.gif](https://tenor.com/es-419/view/spamton-dance-fast-gif-17858730765455427636)" width="60" alt="Spamton" />
 <br>
 
 <p>
