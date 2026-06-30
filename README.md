@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=35&center=true&vCenter=true&width=600&height=60&duration=2000&pause=1000&lines=Software+Engineering+Student+🎓;Backend+%26+Database+Enthusiast+💻;Gamer+%26+Cat+Lover+🐈‍⬛;Building+Cool+Things+✨)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=35&center=true&vCenter=true&width=600&height=60&duration=2000&pause=1000&lines=Software+Engineering+Student+🎓;Backend+%26+Database+Enthusiast+💻;Problem+Solver+🧠;Building+Structured+Solutions+✨)
 
 </div>
 
@@ -10,12 +10,12 @@
 
 ## 🌍 Sobre Mí
 
-Soy estudiante de Ingeniería de Software (5to semestre) en la ULEAM. Me apasiona el desarrollo backend, el diseño de arquitectura y la creación de soluciones estructuradas. Siempre busco aplicar buenas prácticas en mis proyectos académicos y personales.
+Soy estudiante de Ingeniería de Software (5to semestre) en la ULEAM. Me apasiona el desarrollo backend, el diseño de arquitectura y la creación de soluciones escalables. Siempre busco aplicar buenas prácticas y código limpio en mis proyectos.
 
 - 🎯 Experiencia práctica con diseño guiado por el dominio (DDD) y replicación de bases de datos.
-- 🗣️ Estudiante de inglés nivel B2.
-- 🌱 Actualmente profundizando en arquitecturas distribuidas.
-- ⚡ Cuando no estoy tirando código, probablemente estoy farmeando reliquias en Honkai: Star Rail, rompiendo el juego en Balatro o pasando el rato con mi gata Lía.
+- 🗣️ Estudiante de inglés nivel B2, preparándome para un entorno tecnológico global.
+- 🌱 Actualmente profundizando en arquitecturas distribuidas y despliegue mediante contenedores.
+- ⚡ Enfocado en la optimización de procesos y la resolución de problemas lógicos complejos.
 
 ---
 
@@ -52,7 +52,7 @@ Soy estudiante de Ingeniería de Software (5to semestre) en la ULEAM. Me apasion
 
 <div align="center">
 
-*(Aquí puedes poner tu correo o LinkedIn si deseas, si no, puedes borrar esta sección)*
+*(Opcional: Reemplaza esto con tu LinkedIn o correo, o simplemente bórralo)*
 
 <br>
 
