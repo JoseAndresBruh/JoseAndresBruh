@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=35&center=true&vCenter=true&width=600&height=60&duration=2000&pause=1000&lines=Software+Engineering+Student+🎓;Backend+%26+Architecture+Enthusiast+💻;Problem+Solver+🧠;Building+Structured+Solutions+✨)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=35&center=true&vCenter=true&width=600&height=60&duration=2000&pause=1000&lines=Software+Engineering+Student+🎓;Backend+and+Architecture+Enthusiast+💻;Problem+Solver+🧠;Building+Structured+Solutions+✨)
 
 </div>
 
@@ -74,12 +74,6 @@ Para asegurar la calidad en mis proyectos, aplico principios sólidos de ingenie
 <br><br>
 
 ### ¡Gracias por visitar mi perfil!
-
-<br>
-
-<img alt="Pochita" height="70px" src="https://media1.tenor.com/m/0vKzY9qT0YcAAAAC/pochita-chainsaw-man.gif" />
-&nbsp; &nbsp; &nbsp; &nbsp;
-<img alt="Spamton" height="70px" src="https://media1.tenor.com/m/R8pP6k_6vLIAAAAC/spamton-spamton-g-spamton.gif" />
 
 <br>
 
