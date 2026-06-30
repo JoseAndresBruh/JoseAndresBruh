@@ -46,7 +46,10 @@ Para asegurar la calidad en mis proyectos, aplico principios sólidos de ingenie
 ---
 
 <div align="center">
-<img alt="Bongo Cat" height="70px" width="70px" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img><br>
+
+<img alt="Bongo Cat" height="70px" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img>
+
+<br>
 
 <a href="https://github.com/JoseAndresBruh">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoseAndresBruh&theme=github_dark&hide_border=true" alt="GitHub Stats Graph"/>
@@ -54,7 +57,9 @@ Para asegurar la calidad en mis proyectos, aplico principios sólidos de ingenie
   
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAndresBruh&layout=compact&langs_count=6&theme=tokyonight)](https://github.com/JoseAndresBruh)
+<a href="https://github.com/JoseAndresBruh">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAndresBruh&layout=compact&langs_count=6&theme=tokyonight" alt="Top Langs"/>
+</a>
 
 </div>
 
@@ -71,7 +76,11 @@ Para asegurar la calidad en mis proyectos, aplico principios sólidos de ingenie
 ### ¡Gracias por visitar mi perfil!
 
 <br>
-<img src="[https://media.tenor.com/0vKzY9qT0YcAAAAi/pochita-chainsaw-man.gif](https://tenor.com/es-419/view/pochita-dancing-reze-arc-pochita-dance-chainsaw-man-dancing-gif-5698033309633008506)" width="70" alt="Pochita" /> &nbsp; &nbsp; &nbsp; &nbsp; <img src="[https://media.tenor.com/R8pP6k_6vLIAAAAi/spamton-spamton-g-spamton.gif](https://tenor.com/es-419/view/spamton-dance-fast-gif-17858730765455427636)" width="60" alt="Spamton" />
+
+<img alt="Pochita" height="70px" src="https://c.tenor.com/0vKzY9qT0YcAAAAi/pochita-chainsaw-man.gif"></img>
+&nbsp; &nbsp; &nbsp; &nbsp;
+<img alt="Spamton" height="70px" src="https://c.tenor.com/R8pP6k_6vLIAAAAi/spamton-spamton-g-spamton.gif"></img>
+
 <br>
 
 <p>
