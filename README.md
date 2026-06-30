@@ -52,11 +52,15 @@ Soy estudiante de Ingeniería de Software (5to semestre) en la ULEAM. Me apasion
 
 <div align="center">
 
-*(Opcional: Reemplaza esto con tu LinkedIn o correo, o simplemente bórralo)*
+*joseandrescorreodecontacto2@gmail.com*
 
 <br>
 
 ### ¡Gracias por visitar mi perfil!
+
+<br>
+<img src="https://media.tenor.com/0vKzY9qT0YcAAAAi/pochita-chainsaw-man.gif" width="70" /> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://media.tenor.com/R8pP6k_6vLIAAAAi/spamton-spamton-g-spamton.gif" width="60" />
+<br>
 
 <p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
