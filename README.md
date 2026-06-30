@@ -47,7 +47,7 @@ Para asegurar la calidad en mis proyectos, aplico principios sólidos de ingenie
 
 <div align="center">
 
-<img alt="Bongo Cat" height="70px" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img>
+<img alt="Bongo Cat" height="70px" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif" />
 
 <br>
 
@@ -58,7 +58,7 @@ Para asegurar la calidad en mis proyectos, aplico principios sólidos de ingenie
 <br>
 
 <a href="https://github.com/JoseAndresBruh">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAndresBruh&layout=compact&langs_count=6&theme=tokyonight" alt="Top Langs"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoseAndresBruh&theme=github_dark&hide_border=true" alt="Top Langs"/>
 </a>
 
 </div>
@@ -77,13 +77,12 @@ Para asegurar la calidad en mis proyectos, aplico principios sólidos de ingenie
 
 <br>
 
-<img alt="Pochita" height="70px" src="https://c.tenor.com/0vKzY9qT0YcAAAAi/pochita-chainsaw-man.gif"></img>
+<img alt="Pochita" height="70px" src="https://media1.tenor.com/m/0vKzY9qT0YcAAAAC/pochita-chainsaw-man.gif" />
 &nbsp; &nbsp; &nbsp; &nbsp;
-<img alt="Spamton" height="70px" src="https://c.tenor.com/R8pP6k_6vLIAAAAi/spamton-spamton-g-spamton.gif"></img>
+<img alt="Spamton" height="70px" src="https://media1.tenor.com/m/R8pP6k_6vLIAAAAC/spamton-spamton-g-spamton.gif" />
 
 <br>
 
-<p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
+<img alt="Footer wave" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer" />
+
 </div>
